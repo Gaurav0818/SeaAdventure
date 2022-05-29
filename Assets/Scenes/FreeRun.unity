@@ -3718,7 +3718,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   raycastManager: {fileID: 1871745831}
   planeManager: {fileID: 1871745833}
-  objectToSpawn: {fileID: 3173490232471888527, guid: 27a5f3871f4130e40956aab8f46efb39, type: 3}
+  objectToSpawn: {fileID: 919132149155446097, guid: 6c6d6f22ffe67554b98748447e216b4a, type: 3}
   moveIcon: {fileID: 1634221770}
   spawnButton: {fileID: 1228801258}
   reticalePrefab: {fileID: 4871303279140056132, guid: 00a4257747af2544f8d769f246a180f0, type: 3}

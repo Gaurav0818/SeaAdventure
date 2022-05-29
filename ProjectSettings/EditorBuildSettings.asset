@@ -8,13 +8,13 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/Menu.unity
     guid: 32f5ee10a33bfe3418aa0b7cd946a125
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/FreeRun.unity
     guid: 93d8dfaa1e6ebd746a5fcf6ec43c1e5f
   - enabled: 0
     path: Assets/Scenes/HardMode.unity
     guid: b0c555db636881948afa9ebb099c858e
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Top-Down Game.unity
     guid: 718c3058d507bec4ead3952342369ab3
   m_configObjects:

@@ -5,6 +5,7 @@ using UnityEngine.XR.ARSubsystems;
 
 public class SpawnObject : MonoBehaviour
 {
+    
     public ARRaycastManager raycastManager;
     public ARPlaneManager planeManager;
     public GameObject objectToSpawn;
@@ -50,70 +51,21 @@ public class SpawnObject : MonoBehaviour
 
             if (spawnButtonPressed && _spawnedGameObject == null)
                 InstantiatePrefab();
-
-            /*
-            if (Input.touchCount > 0 && Input.GetTouch(0).phase == TouchPhase.Began)
-            {
-
-                if (hits.Count > 0)
-                {
-                    if (_spawnedGameObject == null)
-                        InstantiatePrefab();
-
-                }
-                else if(hits.Count > 0 && _spawnedGameObject != null)
-                { 
-                    Ray ray = Camera.main.ScreenPointToRay( Input.GetTouch(0).position );
-                    RaycastHit hitObject;
-
-                    if(Physics.Raycast(ray, out hitObject))
-                    {
-
-                        if (hitObject.transform.CompareTag("ObjectToBeSpawned"))
-                        {
-                            if (!objectSelected)
-                                SelectObject();
-                            else
-                                DeSelectObject();
-                        }
-                    }
-                }
-            }*/
         }
     }
 
-    /*
-    private void SelectObject()
-    {
-        objectSelected = true;
-        defaultColor = meshRenderer.materials[0].color;
-        meshRenderer.materials[0].color = Color.red;
-    }    
-    
-    private void DeSelectObject()
-    {
-        objectSelected = false;
-        meshRenderer.materials[0].color = defaultColor;
-    }
-    */
-
     private void InstantiatePrefab()
     {
-
-            _spawnedGameObject = Instantiate(objectToSpawn, _reticale.transform.position, _reticale.transform.rotation);
-
         canSpawn = false;
+        _spawnedGameObject = Instantiate(objectToSpawn, _reticale.transform.position, _reticale.transform.rotation);
         _reticale.SetActive(false);
-        GetComponent<GameStepManager>().EndStepOne();
-        
+        GetComponent<GameStepManager>().StartStepTwo(); 
     }
 
     public void InstantiateReticle()
     {
-        if(_reticale == null)
-            _reticale = Instantiate(reticalePrefab, transform);
-        else
-            _reticale.SetActive(true);
+        if(_reticale == null)   _reticale = Instantiate(reticalePrefab, transform);
+        else    _reticale.SetActive(true);
     }
 
     public void SpawnDustbin()

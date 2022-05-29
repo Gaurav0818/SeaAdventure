@@ -35,17 +35,16 @@ public class GameStepManager : MonoBehaviour
     public void EndStepOne()
     {
         Step1_Panel.SetActive(false);
-        StartStepTwo();
     }
 
     public void StartStepTwo()
     {
+        EndStepOne();
         Step2_Panel.SetActive(true);
-
     }
 
     public void EndStepTwo()
     {
-
+        Step2_Panel.SetActive(false);
     }
 }
