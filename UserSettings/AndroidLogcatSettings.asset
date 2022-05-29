@@ -1,0 +1,317 @@
+{
+    "m_SelectedDeviceId": "d383b3eb",
+    "m_SelectedPackage": {
+        "deviceId": "d383b3eb",
+        "name": "com.NCU.MInorAR",
+        "processId": 26674,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "d383b3eb",
+            "name": "com.NCU.MInorAR",
+            "processId": 12509,
+            "exited": true
+        },
+        {
+            "deviceId": "d383b3eb",
+            "name": "com.NCU.MInorAR",
+            "processId": 21477,
+            "exited": true
+        },
+        {
+            "deviceId": "d383b3eb",
+            "name": "com.NCU.MInorAR",
+            "processId": 23949,
+            "exited": true
+        },
+        {
+            "deviceId": "d383b3eb",
+            "name": "com.NCU.MInorAR",
+            "processId": 26309,
+            "exited": true
+        },
+        {
+            "deviceId": "d383b3eb",
+            "name": "com.NCU.MInorAR",
+            "processId": 27813,
+            "exited": true
+        },
+        {
+            "deviceId": "d383b3eb",
+            "name": "com.NCU.MInorAR",
+            "processId": 2899,
+            "exited": false
+        },
+        {
+            "deviceId": "d383b3eb",
+            "name": "com.NCU.MInorAR",
+            "processId": 5007,
+            "exited": false
+        },
+        {
+            "deviceId": "d383b3eb",
+            "name": "com.NCU.MInorAR",
+            "processId": 9725,
+            "exited": false
+        },
+        {
+            "deviceId": "d383b3eb",
+            "name": "com.NCU.MInorAR",
+            "processId": 11245,
+            "exited": false
+        },
+        {
+            "deviceId": "d383b3eb",
+            "name": "com.NCU.MInorAR",
+            "processId": 12852,
+            "exited": false
+        },
+        {
+            "deviceId": "d383b3eb",
+            "name": "com.NCU.MInorAR",
+            "processId": 25891,
+            "exited": false
+        },
+        {
+            "deviceId": "d383b3eb",
+            "name": "com.NCU.MInorAR",
+            "processId": 22490,
+            "exited": false
+        },
+        {
+            "deviceId": "d383b3eb",
+            "name": "com.NCU.MInorAR",
+            "processId": 24892,
+            "exited": false
+        },
+        {
+            "deviceId": "d383b3eb",
+            "name": "com.NCU.MInorAR",
+            "processId": 27717,
+            "exited": false
+        },
+        {
+            "deviceId": "d383b3eb",
+            "name": "com.NCU.MInorAR",
+            "processId": 10690,
+            "exited": false
+        },
+        {
+            "deviceId": "d383b3eb",
+            "name": "com.NCU.MInorAR",
+            "processId": 12050,
+            "exited": false
+        },
+        {
+            "deviceId": "d383b3eb",
+            "name": "com.NCU.MInorAR",
+            "processId": 12606,
+            "exited": false
+        },
+        {
+            "deviceId": "d383b3eb",
+            "name": "com.NCU.MInorAR",
+            "processId": 15569,
+            "exited": false
+        },
+        {
+            "deviceId": "d383b3eb",
+            "name": "com.NCU.MInorAR",
+            "processId": 18372,
+            "exited": false
+        },
+        {
+            "deviceId": "d383b3eb",
+            "name": "com.NCU.MInorAR",
+            "processId": 20844,
+            "exited": false
+        },
+        {
+            "deviceId": "d383b3eb",
+            "name": "com.NCU.MInorAR",
+            "processId": 23208,
+            "exited": false
+        },
+        {
+            "deviceId": "d383b3eb",
+            "name": "com.NCU.MInorAR",
+            "processId": 25193,
+            "exited": false
+        },
+        {
+            "deviceId": "d383b3eb",
+            "name": "com.NCU.MInorAR",
+            "processId": 26916,
+            "exited": false
+        },
+        {
+            "deviceId": "d383b3eb",
+            "name": "com.NCU.MInorAR",
+            "processId": 28911,
+            "exited": false
+        },
+        {
+            "deviceId": "d383b3eb",
+            "name": "com.NCU.MInorAR",
+            "processId": 3028,
+            "exited": false
+        },
+        {
+            "deviceId": "d383b3eb",
+            "name": "com.NCU.MInorAR",
+            "processId": 4628,
+            "exited": false
+        },
+        {
+            "deviceId": "d383b3eb",
+            "name": "com.NCU.MInorAR",
+            "processId": 6584,
+            "exited": false
+        },
+        {
+            "deviceId": "d383b3eb",
+            "name": "com.NCU.MInorAR",
+            "processId": 7914,
+            "exited": false
+        },
+        {
+            "deviceId": "d383b3eb",
+            "name": "com.NCU.MInorAR",
+            "processId": 9588,
+            "exited": false
+        },
+        {
+            "deviceId": "d383b3eb",
+            "name": "com.NCU.MInorAR",
+            "processId": 10917,
+            "exited": false
+        },
+        {
+            "deviceId": "d383b3eb",
+            "name": "com.NCU.MInorAR",
+            "processId": 12114,
+            "exited": false
+        },
+        {
+            "deviceId": "d383b3eb",
+            "name": "com.NCU.MInorAR",
+            "processId": 13080,
+            "exited": false
+        },
+        {
+            "deviceId": "d383b3eb",
+            "name": "com.NCU.MInorAR",
+            "processId": 14060,
+            "exited": false
+        },
+        {
+            "deviceId": "d383b3eb",
+            "name": "com.NCU.MInorAR",
+            "processId": 14683,
+            "exited": false
+        },
+        {
+            "deviceId": "d383b3eb",
+            "name": "com.NCU.MInorAR",
+            "processId": 15632,
+            "exited": false
+        },
+        {
+            "deviceId": "d383b3eb",
+            "name": "com.NCU.MInorAR",
+            "processId": 8554,
+            "exited": false
+        },
+        {
+            "deviceId": "d383b3eb",
+            "name": "com.NCU.MInorAR",
+            "processId": 18456,
+            "exited": false
+        },
+        {
+            "deviceId": "d383b3eb",
+            "name": "com.NCU.MInorAR",
+            "processId": 19614,
+            "exited": false
+        },
+        {
+            "deviceId": "d383b3eb",
+            "name": "com.NCU.MInorAR",
+            "processId": 21239,
+            "exited": false
+        },
+        {
+            "deviceId": "d383b3eb",
+            "name": "com.NCU.MInorAR",
+            "processId": 23083,
+            "exited": false
+        },
+        {
+            "deviceId": "d383b3eb",
+            "name": "com.NCU.MInorAR",
+            "processId": 24797,
+            "exited": false
+        },
+        {
+            "deviceId": "d383b3eb",
+            "name": "com.NCU.MInorAR",
+            "processId": 26674,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 2,
+        "Behavior": 0
+    },
+    "m_Filter": "",
+    "m_FilterIsRegularExpression": false,
+    "m_SymbolPaths": []
+}
