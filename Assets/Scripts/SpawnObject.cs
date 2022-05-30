@@ -68,7 +68,7 @@ public class SpawnObject : MonoBehaviour
         else    _reticale.SetActive(true);
     }
 
-    public void SpawnDustbin()
+    public void SpawnPrefab()
     {
         spawnButtonPressed = true;
     }

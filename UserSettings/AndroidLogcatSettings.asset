@@ -3,7 +3,7 @@
     "m_SelectedPackage": {
         "deviceId": "d383b3eb",
         "name": "com.NCU.SeaAdventure",
-        "processId": 25502,
+        "processId": 29186,
         "exited": false
     },
     "m_SelectedPriority": 0,
@@ -330,6 +330,84 @@
             "deviceId": "d383b3eb",
             "name": "com.NCU.SeaAdventure",
             "processId": 25502,
+            "exited": false
+        },
+        {
+            "deviceId": "d383b3eb",
+            "name": "com.NCU.SeaAdventure",
+            "processId": 26480,
+            "exited": false
+        },
+        {
+            "deviceId": "d383b3eb",
+            "name": "com.NCU.SeaAdventure",
+            "processId": 16898,
+            "exited": false
+        },
+        {
+            "deviceId": "d383b3eb",
+            "name": "com.NCU.SeaAdventure",
+            "processId": 19116,
+            "exited": false
+        },
+        {
+            "deviceId": "d383b3eb",
+            "name": "com.NCU.SeaAdventure",
+            "processId": 20282,
+            "exited": false
+        },
+        {
+            "deviceId": "d383b3eb",
+            "name": "com.NCU.SeaAdventure",
+            "processId": 21677,
+            "exited": false
+        },
+        {
+            "deviceId": "d383b3eb",
+            "name": "com.NCU.SeaAdventure",
+            "processId": 22576,
+            "exited": false
+        },
+        {
+            "deviceId": "d383b3eb",
+            "name": "com.NCU.SeaAdventure",
+            "processId": 23366,
+            "exited": false
+        },
+        {
+            "deviceId": "d383b3eb",
+            "name": "com.NCU.SeaAdventure",
+            "processId": 24715,
+            "exited": false
+        },
+        {
+            "deviceId": "d383b3eb",
+            "name": "com.NCU.SeaAdventure",
+            "processId": 25550,
+            "exited": false
+        },
+        {
+            "deviceId": "d383b3eb",
+            "name": "com.NCU.SeaAdventure",
+            "processId": 26361,
+            "exited": false
+        },
+        {
+            "deviceId": "d383b3eb",
+            "name": "com.NCU.SeaAdventure",
+            "processId": 27015,
+            "exited": false
+        },
+        {
+            "deviceId": "d383b3eb",
+            "name": "com.NCU.SeaAdventure",
+            "processId": 27809,
+            "exited": false
+        },
+        {
+            "deviceId": "d383b3eb",
+            "name": "com.NCU.SeaAdventure",
+            "processId": 29186,
             "exited": false
         }
     ],
