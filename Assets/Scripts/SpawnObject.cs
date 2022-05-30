@@ -59,6 +59,7 @@ public class SpawnObject : MonoBehaviour
         canSpawn = false;
         _spawnedGameObject = Instantiate(objectToSpawn, _reticale.transform.position, _reticale.transform.rotation);
         _reticale.SetActive(false);
+
         GetComponent<GameStepManager>().StartStepTwo(); 
     }
 

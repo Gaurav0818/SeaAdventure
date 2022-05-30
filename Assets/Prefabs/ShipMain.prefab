@@ -26,7 +26,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1563778342399018851}
   m_LocalRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0.02, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 6933229384804723076}
@@ -175,9 +175,10 @@ GameObject:
   m_Component:
   - component: {fileID: 4288498802248161689}
   - component: {fileID: 1103170453253522623}
+  - component: {fileID: 1611473420808425988}
   m_Layer: 0
-  m_Name: Ship
-  m_TagString: Untagged
+  m_Name: ShipMain
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -190,7 +191,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2628022959093360848}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: -0.5182569, y: 0.5, z: 2.7498016}
   m_LocalScale: {x: 2, y: 2, z: 2}
   m_Children:
   - {fileID: 6933229384804723076}
@@ -210,8 +211,22 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   raycastManager: {fileID: 0}
+  arCamera: {fileID: 0}
   Ship: {fileID: 6933229384804723076}
-  speed: 2
+  speed: 0.2
+--- !u!65 &1611473420808425988
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2628022959093360848}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.049206242, y: 0.049049556, z: 0.12494893}
+  m_Center: {x: 0.00031562895, y: 0.02516672, z: 0.012525536}
 --- !u!1 &3199484418522783669
 GameObject:
   m_ObjectHideFlags: 0

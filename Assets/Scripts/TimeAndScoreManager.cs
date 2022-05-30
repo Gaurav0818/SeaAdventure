@@ -41,6 +41,7 @@ public class TimeAndScoreManager : MonoBehaviour
     public void IncreaseScore(int num)
     {
         score += num;
+        time += 5;
     }
 
     public void StartTime()

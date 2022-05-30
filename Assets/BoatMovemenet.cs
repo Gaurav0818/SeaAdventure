@@ -8,6 +8,7 @@ public class BoatMovemenet : MonoBehaviour
 {
 
     public ARRaycastManager raycastManager;
+    public GameObject arCamera;
     public Transform Ship;
     InputControls control;
     CharacterController characterController;
@@ -40,6 +41,7 @@ public class BoatMovemenet : MonoBehaviour
         control.Gameplay.Move.canceled += ctx => movePressed = false;
 
         raycastManager = GameObject.Find("AR Session Origin").GetComponent<ARRaycastManager>();
+        arCamera = GameObject.Find("AR Camera");
 
     }
 
@@ -87,7 +89,7 @@ public class BoatMovemenet : MonoBehaviour
 
         if (hits.Count > 0)
         {
-            FrontDir = hits[0].pose.position - transform.position;
+            FrontDir = hits[0].pose.position;
             forwardFound = true;
 
         }
@@ -108,6 +110,7 @@ public class BoatMovemenet : MonoBehaviour
         //moveDir.Normalize();
         //transform.LookAt(transform.position + new Vector3(moveDir.x, 0, moveDir.y));
         //transform.position = transform.position + new Vector3(moveDir.x, 0, moveDir.y) * Time.deltaTime * speed;
+        transform.LookAt(FrontDir);
         Ship.LookAt(transform.localPosition + new Vector3(moveValue.x, 0, moveValue.y));
         transform.localPosition = transform.localPosition + new Vector3(moveValue.x, 0, moveValue.y) * Time.deltaTime * speed;
     }

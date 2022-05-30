@@ -71,9 +71,5 @@ public class MenuController : MonoBehaviour
         SceneManager.LoadScene(1);
     }    
 
-    public void LoadLvl_2()
-    {
-        SceneManager.LoadScene(2);
-    }
 
 }

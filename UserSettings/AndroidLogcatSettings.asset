@@ -3,7 +3,7 @@
     "m_SelectedPackage": {
         "deviceId": "d383b3eb",
         "name": "com.NCU.SeaAdventure",
-        "processId": 29186,
+        "processId": 12454,
         "exited": false
     },
     "m_SelectedPriority": 0,
@@ -408,6 +408,120 @@
             "deviceId": "d383b3eb",
             "name": "com.NCU.SeaAdventure",
             "processId": 29186,
+            "exited": false
+        },
+        {
+            "deviceId": "d383b3eb",
+            "name": "com.NCU.SeaAdventure",
+            "processId": 29896,
+            "exited": false
+        },
+        {
+            "deviceId": "d383b3eb",
+            "name": "com.NCU.SeaAdventure",
+            "processId": 8216,
+            "exited": false
+        },
+        {
+            "deviceId": "d383b3eb",
+            "name": "com.NCU.SeaAdventure",
+            "processId": 9269,
+            "exited": false
+        },
+        {
+            "deviceId": "d383b3eb",
+            "name": "com.NCU.SeaAdventure",
+            "processId": 10609,
+            "exited": false
+        },
+        {
+            "deviceId": "d383b3eb",
+            "name": "com.NCU.SeaAdventure",
+            "processId": 11468,
+            "exited": false
+        },
+        {
+            "deviceId": "d383b3eb",
+            "name": "com.NCU.SeaAdventure",
+            "processId": 13345,
+            "exited": false
+        },
+        {
+            "deviceId": "d383b3eb",
+            "name": "com.NCU.SeaAdventure",
+            "processId": 14593,
+            "exited": false
+        },
+        {
+            "deviceId": "d383b3eb",
+            "name": "com.NCU.SeaAdventure",
+            "processId": 21518,
+            "exited": false
+        },
+        {
+            "deviceId": "d383b3eb",
+            "name": "com.NCU.SeaAdventure",
+            "processId": 22165,
+            "exited": false
+        },
+        {
+            "deviceId": "d383b3eb",
+            "name": "com.NCU.SeaAdventure",
+            "processId": 23154,
+            "exited": false
+        },
+        {
+            "deviceId": "d383b3eb",
+            "name": "com.NCU.SeaAdventure",
+            "processId": 23780,
+            "exited": false
+        },
+        {
+            "deviceId": "d383b3eb",
+            "name": "com.NCU.SeaAdventure",
+            "processId": 25129,
+            "exited": false
+        },
+        {
+            "deviceId": "d383b3eb",
+            "name": "com.NCU.SeaAdventure",
+            "processId": 26131,
+            "exited": false
+        },
+        {
+            "deviceId": "d383b3eb",
+            "name": "com.NCU.SeaAdventure",
+            "processId": 5598,
+            "exited": false
+        },
+        {
+            "deviceId": "d383b3eb",
+            "name": "com.NCU.SeaAdventure",
+            "processId": 8046,
+            "exited": false
+        },
+        {
+            "deviceId": "d383b3eb",
+            "name": "com.NCU.SeaAdventure",
+            "processId": 9650,
+            "exited": false
+        },
+        {
+            "deviceId": "d383b3eb",
+            "name": "com.NCU.SeaAdventure",
+            "processId": 10347,
+            "exited": false
+        },
+        {
+            "deviceId": "d383b3eb",
+            "name": "com.NCU.SeaAdventure",
+            "processId": 11142,
+            "exited": false
+        },
+        {
+            "deviceId": "d383b3eb",
+            "name": "com.NCU.SeaAdventure",
+            "processId": 12454,
             "exited": false
         }
     ],

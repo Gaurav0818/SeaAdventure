@@ -40,7 +40,9 @@ public class GameStepManager : MonoBehaviour
     public void StartStepTwo()
     {
         EndStepOne();
+        GetComponent<TimeAndScoreManager>().StartTime();
         Step2_Panel.SetActive(true);
+        GetComponent<SpawnCollectables>().startSpawing();
     }
 
     public void EndStepTwo()
